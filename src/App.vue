@@ -2,18 +2,15 @@
   <div id="app">
     <img src="./assets/logo.png">
     <Hello></Hello>
-    <Fade></Fade>
   </div>
 </template>
 
 <script>
 import Hello from './components/Hello'
-import Fade from './components/fade'
 export default {
   name: 'App',
   components: {
-    Hello,
-    Fade
+    Hello
   }
 }
 </script>
