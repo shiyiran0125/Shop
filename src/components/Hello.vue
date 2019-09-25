@@ -2,7 +2,7 @@
 <div class="hello">
 <el-row class="tac">
   <el-col :span="12">
-    <h5>默认颜色</h5>
+    <h1>默认颜色</h1>
     <el-menu
       default-active="2"
       class="el-menu-vertical-demo"
